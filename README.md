@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RealYaseer
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning How to use Java Frame Works 
-- 💞️ I’m looking to collaborate on software project 
-- 📫 How to reach me, You can reach me via GitHub [ @RealYaseer]
-- 😄 Pronouns: 
+- 👋 Hi, I’m RealYaseer
+- 👀 I’m interested in web development, mobile app development 
+- 🌱 I’m currently learning How to use different libraries and frames in Java
+- 💞️ I’m looking to collaborate on web / mobile development.
+- 📫 How to reach me, You can reach me via GitHub [ RealYaseer]
+- 😄 Pronouns: 💻🎮
 - ⚡ Fun fact: Like making fun with coding 
 
 <!---
