@@ -1,6 +1,6 @@
 <img alt="my stats" src ="https://github-readme-stats.vercel.app/api?username=RealYaseer"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealYaseer)](https://github.com/RealYaseer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m RealYaseer
 - 👀 I’m interested in web development, mobile app development 
