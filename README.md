@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealYaseer)](https://github.com/RealYaseer/github-readme-stats)
+<img alt="my stats" src ="https://github-readme-stats.vercel.app/api?username=RealYaseer"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealYaseer)](https://github.com/RealYaseer/github-readme-stats)
 
