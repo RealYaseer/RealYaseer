@@ -1,12 +1,11 @@
 <img alt="my stats" src ="https://github-readme-stats.vercel.app/api?username=RealYaseer"/>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealYaseer)](https://github.com/RealYaseer/github-readme-stats)
 
 - 👋 Hi, I’m RealYaseer
 - 👀 I’m interested in web development, mobile app development 
 - 🌱 I’m currently learning How to use different libraries and frames in Java
-- 💞️ I’m looking to collaborate on web / mobile development.
+- 💞️ I’m looking to collaborate on web / mobile app development.
 - 📫 How to reach me, You can reach me via GitHub [ RealYaseer]
 - 😄 Pronouns: 💻🎮
 - ⚡ Fun fact: Like making fun with coding 
