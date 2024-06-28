@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealYaseer)](https://github.com/RealYaseer/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealYaseer)](https://github.com/RealYaseer/github-readme-stats)
+
 - 👋 Hi, I’m RealYaseer
 - 👀 I’m interested in web development, mobile app development 
 - 🌱 I’m currently learning How to use different libraries and frames in Java
